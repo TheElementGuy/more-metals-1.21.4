@@ -56,10 +56,10 @@
     {
       "type": "paletted_permutations",
       "textures": [
-        "trims/items/leggings_trim",
-        "trims/items/chestplate_trim",
-        "trims/items/helmet_trim",
-        "trims/items/boots_trim"
+        "tegmoremetals:trims/items/leggings_trim",
+        "tegmoremetals:trims/items/chestplate_trim",
+        "tegmoremetals:trims/items/helmet_trim",
+        "tegmoremetals:trims/items/boots_trim"
       ],
       "palette_key": "trims/color_palettes/trim_palette",
       "permutations": {
